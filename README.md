@@ -43,7 +43,7 @@ This repository contains 38 different types of causal relationships derived from
 ## Data Format
 
 All data pairs are provided in the Tübingen format:
-
+```
 x1 y1
 x2 y2
 x3 y3
