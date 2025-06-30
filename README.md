@@ -47,7 +47,7 @@ All data pairs are provided in the Tübingen format:
 x1 y1
 x2 y2
 x3 y3
-...
+```
 
 Where `x` represents the cause variable and `y` represents the effect variable, separated by a single space. The ground truth is therefore represented in this direction: `x → y`. 
 
