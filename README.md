@@ -8,8 +8,8 @@ This repository contains 38 different types of causal relationships derived from
 
 ## Dataset Statistics
 
-- **Total Causal Relationships**: 38 types
-- **Total Data Pairs**: 85 individual pairs
+- **Total Causal Relationships**: 48 types
+- **Total Data Pairs**: 105 individual pairs
 - **Data Format**: Space-separated (x y) Tübingen format
 - **Domains**: Hydrology, Meteorology, Water Quality, Ecology
 - **Time Period**: 2024-2025
