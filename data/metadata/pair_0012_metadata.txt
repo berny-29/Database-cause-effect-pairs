@@ -1,0 +1,30 @@
+Information for pair_0012:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Lowell Dam, Oregon, USA
+Site number(s): 14149011,435450122453600
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2967
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 26.06.2025 00:46:32
+
+
+Parameters:
+x: Precipitation, total, in
+
+y: Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU)
+
+Causality:
+Rainfall increases sediment transport and turbidity
+
+Scientific literature supporting causality:
+https://www.researchgate.net/publication/258787929_Variation_in_turbidity_with_precipitation_and_flow_in_a_regulated_river_system_-_River_Gota_Alv_SW_Sweden
+
+Ground truth:
+x --> y

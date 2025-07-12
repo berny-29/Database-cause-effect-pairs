@@ -1,0 +1,30 @@
+Information for pair_0093:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Carnation, Washington, USA
+Site number(s): 12147900
+Collection period: 01.05.2025 to 30.06.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1464
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 01.07.2025 23:12:46
+
+
+Parameters:
+x: Incident solar radiation intensity, calories per square centimeter per day
+
+y: Relative humidity, percent
+
+Causality:
+Solar radiation drives evaporation, which increases atmospheric humidity
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S0038092X01000846
+
+Ground truth:
+x --> y

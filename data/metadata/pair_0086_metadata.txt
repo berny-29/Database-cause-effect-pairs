@@ -1,0 +1,30 @@
+Information for pair_0086:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Warm Spring Creek, Montana, USA
+Site number(s): 12323770
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2976
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 21.06.2025 03:11:32
+
+
+Parameters:
+x: Discharge, ft³/s
+
+y: Temperature, water, °C
+
+Causality:
+Higher discharge volumes moderate water temperature through thermal mass
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S0959378012001331
+
+Ground truth:
+x --> y

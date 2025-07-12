@@ -1,0 +1,30 @@
+Information for pair_0094:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Paulina, Oregon, USA
+Site number(s): 14078260
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2971
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 26.06.2025 00:34:47
+
+
+Parameters:
+x: Temperature, water, °C"
+
+y: Specific conductance, water, unfiltered, µS/cm at 25°C
+
+Causality:
+Temperature affects ion mobility and electrical conductivity
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/topics/chemistry/ionic-conductivity
+
+Ground truth:
+x --> y

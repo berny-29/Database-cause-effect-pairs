@@ -1,0 +1,30 @@
+Information for pair_0053:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Wynoochee Lake, Washington, USA
+Site number(s): 12035380
+Collection period: 01.03.2025 to 31.03.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2972
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 26.06.2025 04:07:41
+
+
+Parameters:
+x: Precipitation, total, in
+
+y: Reservoir storage, acre-feet
+
+Causality:
+Precipitation fills reservoir storage
+
+Scientific literature supporting causality:
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR028183
+
+Ground truth:
+x --> y

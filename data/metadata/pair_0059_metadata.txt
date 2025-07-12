@@ -1,0 +1,31 @@
+Information for pair_0059:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Helen, Georgia, USA
+Site number(s): 02330450,344314083433201
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 60 minutes
+Number of records: 744
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 13:40:18
+
+
+Parameters:
+x: Temperature, air, °C
+
+y: Depth to water level, ft below land surface
+
+Causality:
+Higher air temperature increases evapotranspiration, depleting groundwater and lowering water table
+
+Scientific literature supporting causality:
+https://www.nature.com/articles/s41467-020-14688-0
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8829912/
+
+Ground truth:
+x --> y

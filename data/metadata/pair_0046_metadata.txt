@@ -1,0 +1,30 @@
+Information for pair_0046:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Raritan River, New Jersey, USA
+Site number(s): 01400500
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2967
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 25.06.2025 00:06:49
+
+
+Parameters:
+x: Dissolved oxygen, water, unfiltered, mg/L
+
+y: Oxidation reduction potential, mV
+
+Causality:
+Oxygen availability drives redox reactions
+
+Scientific literature supporting causality:
+https://www.usgs.gov/mission-areas/water-resources/science/oxidationreduction-redox
+
+Ground truth:
+x --> y

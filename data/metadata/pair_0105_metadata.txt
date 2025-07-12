@@ -1,0 +1,31 @@
+Information for pair_0105:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Devil's Thumb, Colorado, USA
+Site number(s): 395811105480401
+Collection period: 01.05.2025 to 30.06.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1459
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 02.07.2025 15:26:14
+
+
+Parameters:
+x: Surface temperature, non-contact, degrees Celsius
+
+y: Temperature, air, degrees Celsius
+
+Causality:
+Surface heating drives air temperature through conduction and convection
+
+Scientific literature supporting causality:
+https://journals.ametsoc.org/view/journals/atsc/54/4/1520-0469_1997_054_0498_shffte_2.0.co_2.xml
+https://www.researchgate.net/publication/225865644_Estimation_of_Sensible_Heat_Flux_from_Surface_Temperature_Wave_and_One-Time-of-Day_Air_Temperature_Observation
+
+Ground truth:
+x --> y

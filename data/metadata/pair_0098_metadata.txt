@@ -1,0 +1,30 @@
+Information for pair_0098:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Trenton, Texas, USA
+Site number(s): 332541096240601
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2976
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 11:40:01
+
+
+Parameters:
+x: Temperature, air, °F
+
+y: Barometric pressure, uncorrected, hectopascals
+
+Causality:
+Warm air masses have lower density and pressure than cold air masses
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S016980952400471X
+
+Ground truth:
+x --> y

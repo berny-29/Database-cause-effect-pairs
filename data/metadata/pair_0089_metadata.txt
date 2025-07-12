@@ -1,0 +1,30 @@
+Information for pair_0089:
+
+USGS data (U.S. Geological Survey)
+
+Data source: North Umpqua River, Oregon, USA
+Site number(s): 14317450
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2963
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 21.06.2025 23:56:54
+
+
+Parameters:
+x: pH, water, unfiltered, field, standard units
+
+y: Dissolved oxygen, water, unfiltered, milligrams per liter
+
+Causality:
+pH affects oxygen solubility and chemical equilibrium
+
+Scientific literature supporting causality:
+https://www.epa.gov/caddis/dissolved-oxygen
+
+Ground truth:
+x --> y

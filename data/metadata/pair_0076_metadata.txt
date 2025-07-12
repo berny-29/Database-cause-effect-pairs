@@ -1,0 +1,30 @@
+Information for pair_0076:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Frankford Creek, Pennsylvania, USA
+Site number(s): 01467087
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2579
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 28.06.2025 07:33:31
+
+
+Parameters:
+x: Photosynthetically active radiation (PAR), upward intensity, micromoles of photons per m²/s
+
+y: Temperature, air, °C
+
+Causality:
+Solar radiation heats surfaces
+
+Scientific literature supporting causality:
+https://www.mdpi.com/2073-4441/5/4/1622
+
+Ground truth:
+x --> y

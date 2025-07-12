@@ -1,0 +1,30 @@
+Information for pair_0073:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Rio Medina, Texas, USA
+Site number(s): 293355098560601
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2973
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 21.06.2025 07:02:16
+
+
+Parameters:
+x: Barometric pressure, uncorrected, kilopascals
+
+y: Wind speed, mph
+
+Causality:
+Pressure gradients drive wind
+
+Scientific literature supporting causality:
+https://journals.ametsoc.org/view/journals/apme/41/2/1520-0450_2002_041_0133_agwcfs_2.0.co_2.xml
+
+Ground truth:
+x --> y

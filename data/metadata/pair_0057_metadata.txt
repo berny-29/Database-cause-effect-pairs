@@ -1,0 +1,30 @@
+Information for pair_0057:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Columbia River, Washington, USA
+Site number(s): 12472800
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2970
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 18:15:36
+
+
+Parameters:
+x: Discharge, ft³/s
+
+y: Gage height, feet
+
+Causality:
+Higher flow volume increases water level at measurement point
+
+Scientific literature supporting causality:
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023389
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0041:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Sacramento, California, USA
+Site number(s): Filter site number: 11455485
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2972
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 25.06.2025 07:38:11
+
+
+Parameters:
+x: Temperature, water, °C
+
+y: pH, water, unfiltered, field, standard units
+
+Causality:
+Temperature affects chemical equilibria and pH
+
+Scientific literature supporting causality:
+https://link.springer.com/article/10.1007/s13131-021-1955-3
+
+Ground truth:
+x --> y

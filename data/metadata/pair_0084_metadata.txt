@@ -1,0 +1,30 @@
+Information for pair_0084:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Delaware River, Philadelphia, USA
+Site number(s): 01467200
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 5 minutes
+Number of records: 8874
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 08:09:56
+
+
+Parameters:
+x: Dissolved organic matter fluorescence (fDOM), water, in situ, concentration estimated from reference material, micrograms per liter as quinine sulfate equivalents (QSE)
+
+y: Dissolved oxygen, water, unfiltered, milligrams per liter
+
+Causality:
+Organic matter decomposition consumes dissolved oxygen
+
+Scientific literature supporting causality:
+https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1133336/full
+
+Ground truth:
+x --> y

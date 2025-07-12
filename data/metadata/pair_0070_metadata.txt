@@ -1,0 +1,30 @@
+Information for pair_0070:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Caloosahatchee River, Florida, USA
+Site number(s): 02292900
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2390
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 05:28:25
+
+
+Parameters:
+x: Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU)
+
+y: Chlorophyll relative fluorescence (fChl), water, in situ, relative fluorescence units (RFU)
+
+Causality:
+Water clarity affects light penetration and photosynthesis
+
+Scientific literature supporting causality:
+https://www.usgs.gov/publications/turbidity-a-control-phytoplankton-biomass-and-productivity-estuaries
+
+Ground truth:
+x --> y

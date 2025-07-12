@@ -1,0 +1,30 @@
+Information for pair_0051:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Lake Mead, Nevada, USA
+Site number(s): 360500114465601,09421500
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 30 minutes
+Number of records: 1314
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 19:07:50
+
+
+Parameters:
+x: Wind speed, mph
+
+y: Gage height, water, ft
+
+Causality:
+Wind creates water setup/setdown causing temporary water level fluctuations
+
+Scientific literature supporting causality:
+https://ijc.org/en/loslrb/watershed/faq/1
+
+Ground truth:
+x --> y

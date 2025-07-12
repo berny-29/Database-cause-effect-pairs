@@ -1,0 +1,30 @@
+Information for pair_0024:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Tappan Lake, Ohio, USA
+Site number(s): 402120081134200
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 744
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 22:46:17
+
+
+Parameters:
+x: Temperature, air, °C
+
+y: Evaporation total, in/d
+
+Causality:
+Higher temperatures increase evaporation energy
+
+Scientific literature supporting causality:
+https://www.researchgate.net/publication/313492000_Rate_of_evaporation_from_the_free_surface_of_a_heated_liquid
+
+Ground truth:
+x --> y

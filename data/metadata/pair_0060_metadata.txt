@@ -1,0 +1,30 @@
+Information for pair_0060:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Green River, Utah, USA
+Site number(s): 9261000
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2975
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 26.06.2025 11:14:42
+
+
+Parameters:
+x: Wind speed, mph
+
+y: Dissolved oxygen, water, unfiltered, mg/L
+
+Causality:
+Wind creates turbulence and aeration
+
+Scientific literature supporting causality:
+https://link.springer.com/chapter/10.1007/978-94-017-1660-4_33
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0085:
+
+USGS data (U.S. Geological Survey)
+
+Data source: North Santiam River, Oregon, USA
+Site number(s): 14183020
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 30 minutes
+Number of records: 1482
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 24.06.2025 06:01:06
+
+
+Parameters:
+x: Dissolved organic matter fluorescence (fDOM), water, in situ, concentration estimated from reference material, micrograms per liter as quinine sulfate equivalents (QSE)
+
+y: Dissolved oxygen, water, unfiltered, milligrams per liter
+
+Causality:
+Organic matter decomposition consumes dissolved oxygen
+
+Scientific literature supporting causality:
+https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1133336/full
+
+Ground truth:
+x --> y

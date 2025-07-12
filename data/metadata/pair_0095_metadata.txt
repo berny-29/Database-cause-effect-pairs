@@ -1,0 +1,30 @@
+Information for pair_0095:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Seneca, Illinois, USA
+Site number(s): 05543010
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2950
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 03:14:40
+
+
+Parameters:
+x: Temperature, water, °C"
+
+y: Specific conductance, water, unfiltered, µS/cm at 25°C
+
+Causality:
+Temperature affects ion mobility and electrical conductivity
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/topics/chemistry/ionic-conductivity
+
+Ground truth:
+x --> y

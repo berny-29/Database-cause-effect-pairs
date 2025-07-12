@@ -1,0 +1,30 @@
+Information for pair_0013:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Tualatin River, Oregon, USA
+Site number(s): 14206241
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 1480
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 23.06.2025 21:18:38
+
+
+Parameters:
+x: Temperature, air, °C
+
+y: Dissolved oxygen concentration (mg/L or % saturation) 
+
+Causality:
+Higher water temperatures decrease oxygen solubility, reducing dissolved oxygen concentrations available to aquatic organisms
+
+Scientific literature supporting causality:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5606864/
+
+Ground truth:
+x --> y

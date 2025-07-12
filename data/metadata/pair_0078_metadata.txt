@@ -1,0 +1,30 @@
+Information for pair_0078:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Connecticut River, Connecticut, USA
+Site number(s): 01193050
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2207
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 20.06.2025 22:11:48
+
+
+Parameters:
+x: Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, pounds of nitrogen per day, Nitrate sensor
+
+y: Dissolved oxygen, water, unfiltered, milligrams per liter
+
+Causality:
+Nitrogen loading causes eutrophication, reducing dissolved oxygen"
+
+Scientific literature supporting causality:
+https://pubmed.ncbi.nlm.nih.gov/11893425/
+
+Ground truth:
+x --> y

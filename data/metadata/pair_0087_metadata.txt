@@ -1,0 +1,30 @@
+Information for pair_0087:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Chattooga River, Georgia, USA
+Site number(s): 02176930
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2975
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 25.06.2025 02:43:08
+
+
+Parameters:
+x: Discharge, ft³/s
+
+y: Temperature, water, °C
+
+Causality:
+Higher discharge volumes moderate water temperature through thermal mass
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S0959378012001331
+
+Ground truth:
+x --> y

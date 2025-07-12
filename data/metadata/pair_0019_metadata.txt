@@ -1,0 +1,30 @@
+Information for pair_0019:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Saugatuck River, Connecticut, USA
+Site number(s): 410724073221001
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 6 minutes
+Number of records: 7416
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 26.06.2025 10:43:50
+
+
+Parameters:
+x: Temperature, water, degrees Celsius
+
+y: Salinity, water, unfiltered, mg/mL at 25 °C
+
+Causality:
+Higher temperature increases evaporation, concentrating salts
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S0309170817303251
+
+Ground truth:
+x --> y

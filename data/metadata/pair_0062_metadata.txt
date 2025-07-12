@@ -1,0 +1,30 @@
+Information for pair_0062:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Little Tallapoosa, Georgia, USA
+Site number(s): 02413210
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2825
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 23.06.2025 21:31:38
+
+
+Parameters:
+x: Precipitation, total, in
+
+y: Specific conductance, water, unfiltered, µS/cm at 25 °C
+
+Causality:
+Dilution affects dissolved mineral concentrations
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S002216942030024X
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0005:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Chattahoochee River, Columbus, Georgia, USA
+Site number(s): 02341460
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2976
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 20.06.2025 19:58:37
+
+
+Parameters:
+x: Barometric pressure, mmHg
+
+y: Gage height, ft
+
+Causality:
+Atmospheric pressure affects water level (inverse barometer effect)
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/pii/S0022169424012393
+
+Ground truth:
+x --> y

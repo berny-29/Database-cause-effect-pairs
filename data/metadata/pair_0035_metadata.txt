@@ -1,0 +1,30 @@
+Information for pair_0035:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Ptarmigan, Colorado, USA
+Site number(s): 392954106162501
+Collection period: 01.02.2025 to 31.03.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1415
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 02:43:50
+
+
+Parameters:
+x: Temperature, air, °C
+
+y: Snow depth, m
+
+Causality:
+Warmer temperatures cause snow melt
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S0022169403002579
+
+Ground truth:
+x --> y

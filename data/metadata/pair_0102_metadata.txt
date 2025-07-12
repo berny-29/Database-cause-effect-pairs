@@ -1,0 +1,31 @@
+Information for pair_0102:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Berthoud Pass, Colorado, USA
+Site number(s): 394759105464101
+Collection period: 01.05.2025 to 30.06.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1461
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 01.07.2025 00:11:07
+
+
+Parameters:
+x: Shortwave radiation, downward intensity, W/m²"
+
+y: PAR, downward intensity, μmol photons/m²/s
+
+Causality:
+PAR is spectrally embedded in shortwave radiation (400-700 nm)
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/0002157183900055
+https://www.sciencedirect.com/science/article/abs/pii/S0168192399001446
+
+Ground truth:
+x --> y

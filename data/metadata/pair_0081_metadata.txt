@@ -1,0 +1,30 @@
+Information for pair_0081:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Fishing Creek, Pennsylvania, USA
+Site number(s): 01548030
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2976
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 22:39:43
+
+
+Parameters:
+x: pH, water, unfiltered, field, standard units"
+
+y: Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+
+Causality:
+pH affects ion dissociation and electrical conductivity
+
+Scientific literature supporting causality:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3747999/
+
+Ground truth:
+x --> y

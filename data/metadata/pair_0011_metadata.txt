@@ -1,0 +1,30 @@
+Information for pair_0011:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Kankakee River, Indiana, USA
+Site number(s): 412354086421003,05515500
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2943
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 23.06.2025 18:13:10
+
+
+Parameters:
+x: Temperature, air, °C
+
+y: Dissolved oxygen, water, unfiltered, mg/L
+
+Causality:
+Higher temperatures reduce oxygen solubility
+
+Scientific literature supporting causality:
+https://www.researchgate.net/publication/261588247_The_Influence_of_Air_Temperature_on_Water_Temperature_and_the_Concentration_of_Dissolved_Oxygen_in_Newfoundland_Rivers
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0022:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Atwood Lake, Ohio, USA
+Site number(s): 403127081171000
+Collection period: 01.05.2025 to 30.06.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1464
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 22.06.2025 15:26:50
+
+
+Parameters:
+x: Wind speed, mph
+
+y: Evapotranspiration, mm/day
+
+Causality:
+Wind increases evaporation rate through turbulent mixing
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S1364815211002805
+
+Ground truth:
+x --> y

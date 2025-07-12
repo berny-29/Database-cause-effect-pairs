@@ -1,0 +1,30 @@
+Information for pair_0097:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Dad, Wyoming, USA
+Site number(s): 09258050
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2952
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 24.06.2025 04:20:19
+
+
+Parameters:
+x: Gage height, ft
+
+y: Specific conductance, water, unfiltered, µS/cm at 25°C
+
+Causality:
+Higher water levels dilute dissolved mineral concentrations
+
+Scientific literature supporting causality:
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012WR012181
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0052:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Chattahoochee River, Georgia, USA
+Site number(s): 02330450
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1463
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 24.06.2025 06:57:56
+
+
+Parameters:
+x: Wind speed, mph
+
+y: Gage height, water, ft
+
+Causality:
+Wind creates water setup/setdown causing temporary water level fluctuations
+
+Scientific literature supporting causality:
+https://ijc.org/en/loslrb/watershed/faq/1
+
+Ground truth:
+x --> y

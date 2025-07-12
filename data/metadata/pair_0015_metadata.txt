@@ -1,0 +1,29 @@
+Information for pair_0015:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Guaynabo, Puerto Rico
+Site number(s): 50048565
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2975
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 00:53:44
+
+
+Parameters:
+x: Temperature, air, °C
+
+y: Dissolved oxygen concentration (mg/L or % saturation) 
+
+Higher water temperatures decrease oxygen solubility, reducing dissolved oxygen concentrations available to aquatic organismsCausality:
+
+Scientific literature supporting causality:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5606864/
+
+Ground truth:
+x --> y

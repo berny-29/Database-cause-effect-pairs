@@ -1,0 +1,30 @@
+Information for pair_0004:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Savannah River, Georgia, USA
+Site number(s): 021989773
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2969
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 14:29:20
+
+
+Parameters:
+x: Temperature, air, °C"
+
+y: Temperature, water, °C
+
+Causality:
+Air temperature regulates water temperature through heat transfer
+
+Scientific literature supporting causality:
+https://www.mdpi.com/2073-4441/13/14/1916
+
+Ground truth:
+x --> y

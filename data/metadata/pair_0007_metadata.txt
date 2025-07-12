@@ -1,0 +1,30 @@
+Information for pair_0007:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Houston, Texas, USA
+Site number(s): 08072000,295554095093402
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2972
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 23.06.2025 03:23:07
+
+
+Parameters:
+x: Wind speed, mph
+
+y: Turbidity, water, unfiltered, monochrome near infra-red LED light source, 780-900 nm, detectors at multiple angles including 90 +-2.5 degrees, ratiometric correction, FNRU
+
+Causality:
+Wind creates surface turbulence that resuspends bottom sediments, increasing water turbidity
+
+Scientific literature supporting causality:
+https://link.springer.com/article/10.1007/s11356-020-11544-y
+
+Ground truth:
+x --> y

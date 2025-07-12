@@ -1,0 +1,30 @@
+Information for pair_0054:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Lake Sidney, Georgia, USA
+Site number(s): 02334400
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2969
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 30.06.2025 06:14:27
+
+
+Parameters:
+x: Precipitation, total, in
+
+y: Reservoir storage, thousand acre feet
+
+Causality:
+Precipitation fills reservoir storage
+
+Scientific literature supporting causality:
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR028183
+
+Ground truth:
+x --> y

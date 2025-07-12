@@ -1,0 +1,30 @@
+Information for pair_0020:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Jacksonville, Florida, USA
+Site number(s): 02246500
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 30 minutes
+Number of records: 1474
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 00:17:10
+
+
+Parameters:
+x: Temperature, water, degrees Celsius
+
+y: Salinity, water, unfiltered, mg/mL at 25 °C
+
+Causality:
+Higher temperature increases evaporation, concentrating salts
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S0309170817303251
+
+Ground truth:
+x --> y

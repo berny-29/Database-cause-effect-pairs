@@ -1,0 +1,30 @@
+Information for pair_0045:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Arkansas, USA
+Site number(s): 072632996
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 5 minutes
+Number of records: 8654
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 28.06.2025 12:42:19
+
+
+Parameters:
+x: Dissolved oxygen, water, unfiltered, mg/L
+
+y: Oxidation reduction potential, mV
+
+Causality:
+Oxygen availability drives redox reactions
+
+Scientific literature supporting causality:
+https://www.usgs.gov/mission-areas/water-resources/science/oxidationreduction-redox
+
+Ground truth:
+x --> y

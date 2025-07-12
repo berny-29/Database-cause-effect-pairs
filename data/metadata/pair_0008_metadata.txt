@@ -1,0 +1,31 @@
+Information for pair_0008:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Raynolds Channel, New York, USA
+Site number(s): 01310740
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 5121
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 06:09:54
+
+
+Parameters:
+x: Total solar radiation (direct + diffuse radiation on a horizontal surface), watts per square meter
+
+y: Temperature, water, °C
+
+Causality:
+Solar energy heats water through radiation absorption
+
+Scientific literature supporting causality:
+https://www.britannica.com/science/climate-meteorology/Effects-of-the-atmosphere
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10579293/
+
+Ground truth:
+x --> y

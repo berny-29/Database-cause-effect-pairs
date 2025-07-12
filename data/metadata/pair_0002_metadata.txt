@@ -1,0 +1,30 @@
+Information for pair_0002:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Mississippi, USA
+Site number(s): 07374000,302556091123700
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2971
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 21.06.2025 22:13:34
+
+
+Parameters:
+x: Precipitation, total, in
+
+y: Streamflow, ft³/s
+
+Causality:
+Rainfall directly creates runoff that increases stream flow
+
+Scientific literature supporting causality:
+https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1097049/full
+
+Ground truth:
+x --> y

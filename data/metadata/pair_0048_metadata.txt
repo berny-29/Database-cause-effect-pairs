@@ -1,0 +1,30 @@
+Information for pair_0048:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Neversink River, New York, USA
+Site number(s): 415845074310201
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 30 minutes
+Number of records: 1195
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 15:43:06
+
+
+Parameters:
+x: Relative humidity, percent
+
+y: Evapotranspiration rate, mm/h
+
+Causality:
+Lower humidity increases evapotranspiration rate
+
+Scientific literature supporting causality:
+https://www.researchgate.net/publication/333660569_EFFECT_OF_RELATIVE_HUMIDITY_ON_EVAPORATION_RATES_IN_NABATIEH_REGION
+
+Ground truth:
+x --> y

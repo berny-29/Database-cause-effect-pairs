@@ -1,0 +1,30 @@
+Information for pair_0050:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Hartwell Lake, South Carolina, USA
+Site number(s): 02187010
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2971
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 21.06.2025 11:25:27
+
+
+Parameters:
+x: Total solar radiation (direct + diffuse radiation on a horizontal surface), watts/m²" 
+
+y: Temperature, air, °C
+
+Causality:
+Solar radiation heats the atmosphere
+
+Scientific literature supporting causality:
+https://www.nature.com/articles/s41598-019-56114-6
+
+Ground truth:
+x --> y

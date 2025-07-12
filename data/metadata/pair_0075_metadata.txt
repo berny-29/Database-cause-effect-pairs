@@ -1,0 +1,30 @@
+Information for pair_0075:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Green River, Utah, USA
+Site number(s): 09261000
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2976
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 12:05:41
+
+
+Parameters:
+x: Barometric pressure, not corrected to sea level, millibars
+
+y: Wind speed, mph
+
+Causality:
+Pressure gradients drive wind
+
+Scientific literature supporting causality:
+https://journals.ametsoc.org/view/journals/apme/41/2/1520-0450_2002_041_0133_agwcfs_2.0.co_2.xml
+
+Ground truth:
+x --> y

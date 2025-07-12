@@ -1,0 +1,31 @@
+Information for pair_0037:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Black Bayou River, Louisiana , USA
+Site number(s): 295847093420600
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 737
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 20.06.2025 11:41:21
+
+
+Parameters:
+x: Gage height, feet
+
+y: Salinity, water, unfiltered, mg/mL at 25 °C
+
+Causality:
+Higher tide brings more saltwater upstream
+
+Scientific literature supporting causality:
+https://oceanservice.noaa.gov/education/tutorial_estuaries/est05_circulation.html
+https://www.coastalwiki.org/wiki/Seawater_intrusion_and_mixing_in_estuaries
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0065:
+
+USGS data (U.S. Geological Survey)
+
+Data source: McKenzie River, Oregon, USA
+Site number(s): 14163900
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2952
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 23.06.2025 18:11:24
+
+
+Parameters:
+x: Chlorophyll relative fluorescence (fChl), water, in situ, relative fluorescence units (RFU)
+
+y: Dissolved oxygen, water, unfiltered, % saturation", “Dissolved oxygen, water, unfiltered, milligrams per liter
+
+Causality:
+Algal photosynthesis produces oxygen
+
+Scientific literature supporting causality:
+https://pubmed.ncbi.nlm.nih.gov/17223068/
+
+Ground truth:
+x --> y

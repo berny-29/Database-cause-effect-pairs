@@ -1,0 +1,30 @@
+Information for pair_0033:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Ranch Creek, Colorado, USA
+Site number(s): 395448105453601,09024000
+Collection period: 01.02.2025 to 31.03.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1373
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 29.06.2025 07:08:30
+
+
+Parameters:
+x: Snow depth, ft
+
+y: Discharge, ft³/s
+
+Causality:
+Snowmelt increases river discharge significantly
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/S0022169419302252
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0091:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Minnesota, USA
+Site number(s): 473423095053301
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 60 minutes
+Number of records: 740
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 24.06.2025 19:52:49
+
+
+Parameters:
+x: Depth to water level, ft below land surface
+
+y: Specific conductance, water, unfiltered, µS/cm at 25°C
+
+Causality:
+Lower groundwater levels concentrate dissolved minerals
+
+Scientific literature supporting causality:
+https://www.sciencedirect.com/science/article/abs/pii/0022169479901471
+
+Ground truth:
+x --> y

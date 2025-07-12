@@ -1,0 +1,31 @@
+Information for pair_0101:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Blue Ridge, Colorado, USA
+Site number(s): 395709105582701
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 60 minutes
+Number of records: 744
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 24.06.2025 08:31:59
+
+
+Parameters:
+x: Soil temperature, degrees Celsius
+
+y: Moisture content, soil, volumetric, percent of total volume, [5 cm depth CS655]
+
+Causality:
+Higher soil temperature increases evaporation, reducing soil moisture content
+
+Scientific literature supporting causality:
+https://www.nature.com/articles/s41467-023-36794-5
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000828
+
+Ground truth:
+x --> y

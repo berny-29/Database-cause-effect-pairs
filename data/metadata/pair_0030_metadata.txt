@@ -1,0 +1,30 @@
+Information for pair_0030:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Mohawk River, New York, USA
+Site number(s): 01349527
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2860
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 30.06.2025 07:39:21
+
+
+Parameters:
+x: Discharge, ft³/s
+
+y: Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU)
+
+Causality:
+Higher flow increases sediment resuspension and transport
+
+Scientific literature supporting causality:
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014WR015417
+
+Ground truth:
+x --> y

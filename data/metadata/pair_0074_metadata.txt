@@ -1,0 +1,30 @@
+Information for pair_0074:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Yucaipa, California, USA
+Site number(s): 340312116592701
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 2976
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 20.06.2025 13:41:51
+
+
+Parameters:
+x: Barometric pressure, millimeters of mercury
+
+y: Wind speed, mph
+
+Causality:
+Pressure gradients drive wind
+
+Scientific literature supporting causality:
+https://journals.ametsoc.org/view/journals/apme/41/2/1520-0450_2002_041_0133_agwcfs_2.0.co_2.xml
+
+Ground truth:
+x --> y

@@ -1,0 +1,31 @@
+Information for pair_0067:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Fraser River, Colorado, USA
+Site number(s): 395448105453601,09024000
+Collection period: 01.03.2025 to 30.04.2025
+Measurement frequency: Every 60 minutes
+Number of records: 1356
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 27.06.2025 06:18:05
+
+
+Parameters:
+x: Water content of snow, mm
+
+y: Discharge, ft³/s
+
+Causality:
+Snow water equivalent predicts melt runoff
+
+Scientific literature supporting causality:
+https://journals.ametsoc.org/view/journals/hydr/11/6/2010jhm1202_1.xml
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2003WR002455
+
+Ground truth:
+x --> y

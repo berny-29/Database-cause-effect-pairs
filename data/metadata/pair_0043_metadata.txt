@@ -1,0 +1,30 @@
+Information for pair_0043:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Delaware River, Philadelphia, USA
+Site number(s): 01467200
+Collection period: 01.05.2025 to 31.05.2025
+Measurement frequency: Every 15 minutes
+Number of records: 8867
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 21.06.2025 14:40:20
+
+
+Parameters:
+x: Temperature, water, °C
+
+y: Nitrate plus nitrite, water, filtered, mg/L as N"
+
+Causality:
+Temperature affects biological nitrogen cycling processes (nitrification/denitrification rates)
+
+Scientific literature supporting causality:
+http://mdpi.com/2073-4441/14/3/436
+
+Ground truth:
+x --> y

@@ -1,0 +1,30 @@
+Information for pair_0027:
+
+USGS data (U.S. Geological Survey)
+
+Data source: Frost Valley, New York, USA
+Site number(s): 415845074310201
+Collection period: 01.05.2025 to 27.06.2025
+Measurement frequency: Every 30 minutes
+Number of records: 2273
+
+Taken from:
+https://waterdata.usgs.gov/nwis/uv?search_criteria=multiple_site_no&submitted_form=introduction
+Direct link:
+https://waterdata.usgs.gov/nwis/uv
+Data retrieved: 26.06.2025 08:21:48
+
+
+Parameters:
+x: Net solar radiation, W/m²"
+
+y: Evapotranspiration rate, mm/hr
+
+Causality:
+Solar energy drives water phase change and plant transpiration
+
+Scientific literature supporting causality:
+https://www.mdpi.com/2073-4441/8/3/90
+
+Ground truth:
+x --> y
